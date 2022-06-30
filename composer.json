@@ -1,0 +1,18 @@
+{
+    "name": "xlong/users_vlnerability",
+    "description": "User behavior record",
+    "authors": [
+        {
+            "name": "tsingtao_xlong",
+            "email": "215915872@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xlong\\UsersVlnerability\\": "src/"
+        }
+    },
+    "require": {}
+}
+
+
